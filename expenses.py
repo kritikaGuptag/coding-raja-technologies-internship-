@@ -1,4 +1,4 @@
-from token import AMPER
+
 from typing import Self
 from unicodedata import category
 
